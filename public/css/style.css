@@ -55,3 +55,8 @@ button {
   border-radius: 10px;
   padding: 8px;
 }
+
+.icon {
+  display: flex;
+  margin-top: 15px;
+}
